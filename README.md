@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 My programming protfolio is available at [hmzi67.github.io](https://github.com/hmzi67)
+- 👨‍💻 My programming protfolio is available at [rimsha67.github.io](https://github.com/rimsha67)
 
 - 📫 How to reach me **malikrimsha049@gmail.com**
 
